@@ -1,4 +1,4 @@
-# These ar the tasks for Day4 and Day5
+# These are the tasks for Day4 and Day5
 ## Day4
 ### Authorization and Authentication
 
